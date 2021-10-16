@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gian Ocampo. I am a Software Engineer at NG.
+- 👋 Hi, I’m Gian Ocampo. I am a Software Engineer at NG with 3 YOE.
 - 👀 I’m interested in picking up IOS Mobile Development.
 - 🌱 I’m currently learning my Data Structures and Algorithms once more by following the UC Berkeley CS61B course.
 - 💞️ I’m looking to collaborate on some IOS Projects
